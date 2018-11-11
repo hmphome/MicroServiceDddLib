@@ -1,0 +1,2 @@
+# MicroServiceDddLib
+C++ library
