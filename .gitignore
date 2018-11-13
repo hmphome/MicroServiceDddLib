@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MicroServiceDddLib/v15
+/Debug
+/MicroServiceDddLib/Debug
+/packages/gtest-vc140-static-32_64.1.1.0
+/UnitTests/Debug
